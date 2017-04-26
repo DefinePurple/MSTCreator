@@ -1,4 +1,4 @@
-# MSTCreator
+# MSTCreator - Java
 <h2> WIP </h2><br>
 
 MSTCreator is a work in progress minimum spanning tree text file creator. The layout of the text file is as follows:<br>
